@@ -1,0 +1,8 @@
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\bin\Debug\DotnetHelper.dll
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\bin\Debug\DotnetHelper.pdb
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\obj\Debug\DotnetHelper.csprojAssemblyReference.cache
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\obj\Debug\DotnetHelper.csproj.CopyComplete
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\obj\Debug\DotnetHelper.dll
+C:\Mygithub\DotnetHelper\DotnetHelper\DotnetHelper\obj\Debug\DotnetHelper.pdb
